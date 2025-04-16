@@ -1,6 +1,15 @@
 # AppLibreria
 
-# Comandos de Github
+## Integrantes
+
+* Ariel Andrés Guemahyel Guzman Leiva
+* Diana Quinteros Gallardo
+* Francisco Cerda Venegas
+* Mariafernanda Lagunas Ivani
+* Nicolás Sanhueza Díaz
+* Sebastian Muñoz Garrido
+
+## Comandos de Github
 
 ### Configuración Básica
 
